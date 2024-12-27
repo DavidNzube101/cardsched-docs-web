@@ -10,6 +10,8 @@
 
 <div class="min-h-screen bg-[#f8f8f6]">
 <!-- Header -->
+
+
 <header class="border-b">
   <div class="container mx-auto px-4 py-4 flex justify-between items-center">
     <div class="flex items-center flex-column">
